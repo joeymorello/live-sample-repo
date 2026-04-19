@@ -1,14 +1,38 @@
 {
   "_base": "https://raw.githubusercontent.com/joeymorello/live-sample-repo/main/samples/",
-  "bd": [],
-  "sd": [],
-  "hh": [],
-  "oh": [],
-  "cp": [],
-  "perc": [],
   "bass": [],
-  "pad": [],
-  "lead": [],
+  "bd": [
+    "bd/MO_TENNY_kick_clean_mouse.wav"
+  ],
+  "cp": [
+    "cp/MARS_909_clap_warm_hi_mid.wav"
+  ],
+  "drum_loop": [
+    "drum_loop/MO_TENNY_135_drum_loop_foley_garage.wav"
+  ],
   "fx": [],
-  "vox": []
+  "hh": [
+    "hh/91V_HED_hihat_body.wav"
+  ],
+  "lead": [
+    "lead/MO_JUK_145_synth_loop_position_sines_Dmin.wav",
+    "lead/MO_TENNY_synth_note_beep_dial_C.wav"
+  ],
+  "oh": [
+    "oh/MARS_909_open_hat_warm_lo.wav"
+  ],
+  "pad": [],
+  "perc": [
+    "perc/FTH_Perc_26.wav"
+  ],
+  "sd": [
+    "sd/FSS_FTE_snare_lofi.wav",
+    "sd/FTH_Snare_09.wav",
+    "sd/MARS_909_snare_smack.wav"
+  ],
+  "vox": [
+    "vox/MO_AP_148_vocal_loop_parsec_angel_Amaj.wav",
+    "vox/MO_FROST_128_vocal_chop_frisbee_E.wav",
+    "vox/MO_TENNY_135_vocal_chop_blanket_Cmin.wav"
+  ]
 }
